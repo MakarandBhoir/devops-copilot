@@ -22,6 +22,10 @@ This repository contains Terraform configuration files for managing infrastructu
 - **Apply**: `terraform apply`
 - **Destroy**: `terraform destroy`
 
+## Project
+- [`01-terraform-starter`](01-terraform-starter/README.md) : The main perpose of this project is to show you Terraform configuration using Github copilot
+- [`02-terraform-aws-vpc`](02-terraform-aws-vpc/README.md) : The perpose of this project is to show you how to create vpc and related resources using terraform with the help of github copilot
+
 ## Contributing
 Feel free to submit issues, fork the repository and send pull requests!
 
